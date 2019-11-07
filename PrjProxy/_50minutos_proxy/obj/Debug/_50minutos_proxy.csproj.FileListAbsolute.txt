@@ -1,0 +1,7 @@
+C:\Users\Danie\Desktop\Estágio Supervisionado\8° Semestre\PrjProxy\_50minutos_proxy\bin\Debug\_50minutos_proxy.exe.config
+C:\Users\Danie\Desktop\Estágio Supervisionado\8° Semestre\PrjProxy\_50minutos_proxy\bin\Debug\_50minutos_proxy.exe
+C:\Users\Danie\Desktop\Estágio Supervisionado\8° Semestre\PrjProxy\_50minutos_proxy\bin\Debug\_50minutos_proxy.pdb
+C:\Users\Danie\Desktop\Estágio Supervisionado\8° Semestre\PrjProxy\_50minutos_proxy\obj\Debug\_50minutos_proxy.csprojAssemblyReference.cache
+C:\Users\Danie\Desktop\Estágio Supervisionado\8° Semestre\PrjProxy\_50minutos_proxy\obj\Debug\_50minutos_proxy.csproj.CoreCompileInputs.cache
+C:\Users\Danie\Desktop\Estágio Supervisionado\8° Semestre\PrjProxy\_50minutos_proxy\obj\Debug\_50minutos_proxy.exe
+C:\Users\Danie\Desktop\Estágio Supervisionado\8° Semestre\PrjProxy\_50minutos_proxy\obj\Debug\_50minutos_proxy.pdb
